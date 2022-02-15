@@ -1,5 +1,5 @@
 package by.epam.lis.basic;
-
+//Даны два числа. Определить цифры, входящие в запись как первого так и второго числа.
 import java.util.Scanner;
 
 public class Main18 {
